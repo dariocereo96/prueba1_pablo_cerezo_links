@@ -7,7 +7,7 @@ Prueba para puesto Backend
 
 # info
 -Se empleo el paquete laravel Sanctum para la autentificacion y proteccion de rutas.
--Se empelo el paquete Spatie para la creacion de roles
+-Se empleo el paquete Spatie para la creacion de roles.
 
 # intrucciones
 --crear base de datos con nombre "prueba1"
